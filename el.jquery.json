@@ -1,0 +1,26 @@
+{
+    "description": "jQuery plugin to simplify quickly creating HTML elements.", 
+    "author": {
+        "url": "http://www.mesha.org", 
+        "name": "Adam Mesha", 
+        "email": "adam@mesha.org"
+    }, 
+    "title": "jQuery El", 
+    "licenses": [
+        {
+            "url": "http://opensource.org/licenses/MIT", 
+            "type": "MIT"
+        }
+    ], 
+    "version": "0.1.0", 
+    "dependencies": {
+        "jquery": ">=1.0"
+    }, 
+    "keywords": [
+        "DOM-creation", 
+        "element", 
+        "template"
+    ], 
+    "homepage": "https://github.com/sagittarian/jquery-el", 
+    "name": "el"
+}
